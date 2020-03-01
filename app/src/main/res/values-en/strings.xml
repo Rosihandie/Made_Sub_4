@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_tab_movies">View Movies</string>
+    <string name="content_tab_tv_show">View Tv Show</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">TV Show</string>
+    <string name="tab_text_3">Favorite</string>
+    <string name="item_name">Title</string>
+    <string name="item_description">Description</string>
+    <string name="year">Year</string>
+    <string name="rating">Rating</string>
+    <string name="poster_movie">Image Film</string>
+    <string name="trailer">Trailer</string>
+    <string name="settings">Settings</string>
+    <string name="img_year">Date Release</string>
+    <string name="img_rating">Rating</string>
+    <string name="favorite_movie">Favorite Movie</string>
+    <string name="favorite_welcome">Your Favorite Movies</string>
+    <string name="favorite_tv_show">Favorite Tv Show</string>
+    <string name="toastFav">Successfully added to favorites</string>
+    <string name="toastFavFail">Failed to add to favorites</string>
+    <string name="toastDel">Successful delete</string>
+    <string name="back">back</string>
+
+</resources>
